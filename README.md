@@ -7,4 +7,5 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
+<a href="https://crixsanti.github.io/wide-coverage/">crixsanti.github.io/wide-coverage</a>
 <img src="https://github.com/crixsanti/projeto-widecoverage-responsivo/blob/main/img/widecoverage%20responsivo.png?raw=true">
